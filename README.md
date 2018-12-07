@@ -1,7 +1,7 @@
- Sokoban_EGE<br>
+* Sokoban_EGE<br>
 ==================================================================================================
 https://github.com/631854335/Sokoban_EGE<br><br>
-运行效果：
+* 运行效果：
 ---------------------------------------------------------------------------------------------------
 ![](https://github.com/631854335/Sokoban_EGE/blob/master/source/image/a.png)<br>
 ![](https://github.com/631854335/Sokoban_EGE/blob/master/source/image/b.png)<br>
