@@ -3,4 +3,4 @@
 https://github.com/631854335/Sokoban_EGE<br><br>
 运行效果：
 ---------------------------------------------------------------------------------------------------
-![](https://github.com/631845335/Sokoban_EGE/war/master/source/image/1.jpg)
+![](https://github.com/631845335/Sokoban_EGE/war/master/image/1.jpg)
